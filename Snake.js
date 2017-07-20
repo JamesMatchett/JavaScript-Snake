@@ -48,10 +48,7 @@ function Snake(){
   //makes the snake appear out the other side if it hits an edge
   this.reappear = function(){
     
-    var d1;
-    var d2;
-    var d3;
-    var d4;
+   
     
     
     
